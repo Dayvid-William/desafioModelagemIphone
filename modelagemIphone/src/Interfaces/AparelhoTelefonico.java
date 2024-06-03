@@ -1,3 +1,4 @@
+package Interfaces;
 public interface AparelhoTelefonico {
   default void ligar(String numero) {}
 
